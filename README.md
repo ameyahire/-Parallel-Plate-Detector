@@ -18,3 +18,11 @@ tion into different processes that run concurrently.
  the operations of capturing frames and detecting plates, thus improving the
  throughput and responsiveness of the system
 
+ ## Conclusion
+ This project demonstrates the implementation of a number plate detection sys
+tem using parallel processing to improve efficiency. By leveraging OpenCV for
+ image processing and EasyOCR for text recognition, the system can effectively
+ detect and recognize number plates in real-time. The parallel processing ap
+proach significantly enhances performance compared to a sequential method,
+ making it suitable for applications requiring high throughput and low latency
+
